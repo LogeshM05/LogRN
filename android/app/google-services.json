@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937783952079",
+    "project_id": "myfirstworld-a941d",
+    "storage_bucket": "myfirstworld-a941d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937783952079:android:eaf333cea956c129e72dba",
+        "android_client_info": {
+          "package_name": "com.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937783952079-elrj66e3abpbcnc4sf0ndn26fa0qmdgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62_hyMX7vUqulpRuiuJDkPQS1ZrO8Yr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937783952079-elrj66e3abpbcnc4sf0ndn26fa0qmdgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
